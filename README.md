@@ -1,6 +1,6 @@
 # TypeScriptTutorial
 
-## Usageg
+## Usage
 ```sh
 git clone https://github.com/tomatoaiu/TypeScriptTutorial.git
 cd TypeScriptTutorial
